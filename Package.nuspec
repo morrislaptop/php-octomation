@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>testing</authors>
+    <owners>testing</owners>
+    <projectUrl>https://github.com/morrislaptop/php-octomation</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Zero day wonga hack</description>
+  </metadata>
+</package>
