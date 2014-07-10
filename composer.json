@@ -1,0 +1,18 @@
+{
+    "name": "wongatech/php-octomation",
+    "authors": [
+        {
+            "name": "morrislaptop",
+            "email": "craig.michael.morris@gmail.com"
+        },
+        {
+            "name": "daffer",
+            "email": "dafydd.giddens@wonga.co"
+        },
+        {
+            "name": "chris-smith-wonga",
+            "email": "chris.nesbitt-smith@wonga.com"
+        }
+    ],
+    "require": {}
+}
