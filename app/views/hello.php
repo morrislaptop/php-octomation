@@ -36,7 +36,7 @@
 <body>
 	<div class="welcome">
 		<a href="/run" title="Laravel PHP Framework"><img src="https://octodex.github.com/images/droctocat.png" width="270" height="270" alt="OCTOMATION!!!!"></a>
-		<h1>You have arrived to Octomotion.</h1>
+		<h1>You have arrived to Octomotion v2.</h1>
 	</div>
 </body>
 </html>
