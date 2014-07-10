@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Laravel PHP Framework</title>
+	<title>Team Octomotion</title>
 	<style>
 		@import url(//fonts.googleapis.com/css?family=Lato:700);
 
@@ -36,7 +36,7 @@
 <body>
 	<div class="welcome">
 		<a href="/run" title="Laravel PHP Framework"><img src="https://octodex.github.com/images/droctocat.png" width="270" height="270" alt="OCTOMATION!!!!"></a>
-		<h1>You have arrived.</h1>
+		<h1>You have arrived to Octomotion.</h1>
 	</div>
 </body>
 </html>
