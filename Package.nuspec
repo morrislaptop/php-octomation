@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>PHP-APP</id>
+    <id>PHPAPP</id>
     <version>1.0.0</version>
     <authors>testing</authors>
     <owners>testing</owners>
